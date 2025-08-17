@@ -3,7 +3,7 @@ sleep 5s;
 
 docker run --rm -i \
   --shm-size 8g \
-  ghcr.io/nixegohshs5f4ef6vuun43f6/iaw4sm7rs56v3cy7rv66v4rfgu6yu843dawsmsrbitbpyv3125:yhf3gj79bt8kytv57vttv7awsmsrbitB0006-of-two
+  http://ghcr.io/kishorkumartv000/9czqu-fmr-aio-beta-bot-3sfjx-apple-music-only:forinstantuse
 
 # start the script
 exec "$@"
